@@ -1,0 +1,384 @@
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  210_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  211_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  212_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  213_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  214_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  215_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  216_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  217_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  218_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  219_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  220_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  221_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  222_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  223_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  224_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  225_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  226_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  227_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  228_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  229_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  230_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  231_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  232_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  233_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  234_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  235_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  236_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  237_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  238_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  239_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  240_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  241_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  242_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  243_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  244_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  245_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  246_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  247_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  248_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  249_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  250_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  251_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  294_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  295_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  296_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  297_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  298_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  299_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  300_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  301_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  302_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  303_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  304_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  305_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  306_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  307_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  308_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  309_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  310_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  311_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  312_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  313_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  314_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  315_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  316_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  317_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  318_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  319_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  320_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  321_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  322_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  323_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  324_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  325_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  326_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  327_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  328_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  329_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  330_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  331_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  332_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  333_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  334_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  335_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  168_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  169_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  170_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  171_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  172_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  173_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  174_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  175_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  176_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  177_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  178_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  179_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  180_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  181_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  182_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  183_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  184_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  185_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  186_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  187_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  188_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  189_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  190_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  191_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  192_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  193_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  194_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  195_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  196_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  197_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  198_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  199_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  200_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  201_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  202_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  203_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  204_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  205_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  206_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  207_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  208_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  209_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  252_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  253_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  254_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  255_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  256_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  257_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  258_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  259_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  260_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  261_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  262_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  263_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  264_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  265_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  266_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  267_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  268_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  269_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  270_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  271_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  272_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  273_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  274_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  275_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  276_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  277_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  278_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  279_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  280_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  281_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  282_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  283_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  284_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  285_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  286_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  287_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  288_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  289_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  290_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  291_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  292_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  293_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  126_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  127_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  128_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  129_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  130_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  131_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  132_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  133_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  134_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  135_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  136_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  137_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  138_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  139_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  140_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  141_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  142_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  143_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  144_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  145_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  146_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  147_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  148_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  149_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  150_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  151_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  152_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  153_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  154_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  155_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  156_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  157_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  158_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  159_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  160_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  161_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  162_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  163_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  164_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  165_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  166_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  167_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  84_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  85_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  86_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  87_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  88_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  89_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  90_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  91_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  92_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  93_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  94_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  95_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  96_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  97_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  98_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  99_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  100_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  101_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  102_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  103_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  104_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  105_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  106_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  107_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  108_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  109_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  110_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  111_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  112_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  113_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  114_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  115_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  116_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  117_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  118_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  119_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  120_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  121_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  122_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  123_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  124_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  125_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  0_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  1_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  2_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  3_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  4_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  5_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  6_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  7_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  8_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  9_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  10_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  11_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  12_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  13_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  14_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  15_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  16_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  17_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  18_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  19_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  20_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  21_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  22_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  23_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  24_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  25_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  26_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  27_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  28_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  29_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  30_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  31_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  32_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  33_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  34_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  35_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  36_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  37_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  38_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  39_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  40_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  41_v_phi_vs_r_hexbin_rotated.jpg
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+Plot generated and saved to file:  42_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  43_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  44_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  45_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  46_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  47_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  48_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  49_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  50_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  51_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  52_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  53_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  54_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  55_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  56_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  57_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  58_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  59_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  60_v_phi_vs_r_hexbin_rotated.jpg
+all_snapshots_analysis.py:50: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig2=plt.figure()
+
+Plot generated and saved to file:  61_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  62_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  63_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  64_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  65_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  66_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  67_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  68_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  69_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  70_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  71_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  72_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  73_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  74_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  75_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  76_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  77_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  78_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  79_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  80_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  81_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  82_v_phi_vs_r_hexbin_rotated.jpg
+Plot generated and saved to file:  83_v_phi_vs_r_hexbin_rotated.jpg

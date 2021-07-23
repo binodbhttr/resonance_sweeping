@@ -1,0 +1,18 @@
+#!/bin/bash
+#!/bin/sh
+#SBATCH -J rotate_strip
+#SBATCH -p cca
+#SBATCH -N 1
+#SBATCH -n 8
+#SBATCH --time=08:00:00
+#SBATCH --mail-type=FAIL --mail-user=bbhattarai-intern@flatironinstitute.org
+python3 cacl_bangles_parallel.py 1 &
+python3 cacl_bangles_parallel.py 2 &
+python3 cacl_bangles_parallel.py 3 &
+python3 cacl_bangles_parallel.py 4 &
+python3 cacl_bangles_parallel.py 5 &
+python3 cacl_bangles_parallel.py 6 &
+python3 cacl_bangles_parallel.py 7 &
+python3 cacl_bangles_parallel.py 8 &
+
+wait
