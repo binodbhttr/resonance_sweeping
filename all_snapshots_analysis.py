@@ -70,7 +70,7 @@ for i in range(start,finish):
     #data={"snapshot":i,"r":r_export,"vphi":vphi_export}
     #filename="snapshot_"+str(i)+".pkl"
     
-    #figure3: ROTATED x vs y plot of the entire galaxy
+    #figure3: ROTATED x vs y plot of the entire galaxy6
     fig3=plt.figure()
     ax=fig3.add_subplot(111)
     ax.text(0,34,r"Snapshot %s "%(str(snapshot)))
