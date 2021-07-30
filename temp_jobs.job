@@ -1,9 +1,0 @@
-#!/bin/bash
-#!/bin/sh
-#SBATCH -J calc_bangles
-#SBATCH -p cca
-#SBATCH -N 1
-#SBATCH -n 1
-#SBATCH --time=10:00:00
-#SBATCH --mail-type=FAIL --mail-user=bbhattarai-intern@flatironinstitute.org
-python3 calculate_barangles.py

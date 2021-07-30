@@ -31,7 +31,7 @@ for i in range(start,finish):
     
     #calculating bar_angle
     discindx=(mass<1e-7)
-    barsample=(r<3)*discindx
+    barsample=(r>1)*(r<3)*discindx
     counts, bins, patches=plt.hist(phi[barsample],bins=360,histtype='step')
     bin_centres=bins[:-1]+(bins[1]-bins[0])/2
     max_indx=np.argmax(counts)
@@ -39,7 +39,7 @@ for i in range(start,finish):
     a.append(barangle_degrees)
     
 
-datafilename=str(start)+"_to_"+str(finish)+"saved_barangles_new.ang"
+datafilename=str(start)+"_to_"+str(finish)+"saved_barangles_sim_B4.ang"
 bangle=np.array(a)
 with open(save_datapath+datafilename, 'wb') as output:
         pickle.dump(bangle, output)

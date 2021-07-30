@@ -1,18 +1,18 @@
 #!/bin/bash
 #!/bin/sh
 #SBATCH -J rotate_strip
-#SBATCH -p cca
+#SBATCH -p cca --reservation=bad
 #SBATCH -N 1
 #SBATCH -n 8
 #SBATCH --time=10:00:00
 #SBATCH --mail-type=FAIL --mail-user=bbhattarai-intern@flatironinstitute.org
-python3 all_snapshots_analysis.py 1 &
-python3 all_snapshots_analysis.py 2 &
-python3 all_snapshots_analysis.py 3 &
-python3 all_snapshots_analysis.py 4 &
-python3 all_snapshots_analysis.py 5 &
-python3 all_snapshots_analysis.py 6 &
-python3 all_snapshots_analysis.py 7 &
-python3 all_snapshots_analysis.py 8 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 1 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 2 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 3 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 4 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 5 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 6 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 7 &
+python3 /mnt/home/bbhattarai/resonance_sweeping/calculate_bangles_parallel.py 8 &
 
 wait
