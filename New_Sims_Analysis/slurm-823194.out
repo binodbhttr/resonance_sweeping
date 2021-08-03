@@ -1,0 +1,136 @@
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.710110
+end at: 2021-08-02 08:02:04.711041
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.822278
+end at: 2021-08-02 08:02:04.822420
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.827461
+end at: 2021-08-02 08:02:04.827582
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.840165
+end at: 2021-08-02 08:02:04.843232
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.854361
+end at: 2021-08-02 08:02:04.854495
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.867914
+end at: 2021-08-02 08:02:04.868042
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.910434
+end at: 2021-08-02 08:02:04.910547
+/mnt/home/bbhattarai/.local/lib/python3.7/site-packages/galpy/util/bovy_coords.py:6: FutureWarning: galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9
+  warnings.warn('galpy.util.bovy_coords is being deprecated in favor of galpy.util.coords; all functions in there are the same; please switch to the new import, because the old import will be removed in v1.9',FutureWarning)
+
+start at: 2021-08-02 08:02:04.911596
+end at: 2021-08-02 08:02:04.911689
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.
+Traceback (most recent call last):
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/calculate_bar_angles_B3_N.py", line 29, in <module>
+    snaparr = loadwholesnap(path,snapshot)
+  File "/mnt/home/bbhattarai/resonance_sweeping/New_Sims_Analysis/procedure.py", line 142, in loadwholesnap
+    times=np.genfromtxt(path+'times.txt',dtype='str')
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1744, in genfromtxt
+    fhd = iter(np.lib._datasource.open(fname, 'rt', encoding=encoding))
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 266, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/cm/shared/sw/pkg/devel/python3/3.7.3/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 624, in open
+    raise IOError("%s not found." % path)
+OSError: ../jhunt/scratch/Bonsai/r3/B3-N/times.txt not found.

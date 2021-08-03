@@ -30,7 +30,7 @@ for i in range(start,finish):
     #phi=np.rad2deg(phi)
     
     #calculating bar_angle
-    discindx=(mass<1e-7)
+    discindx=(mass<1e-7) # multiply by *2.324876e9 for B3-N
     barsample=(r>1)*(r<3)*discindx
     counts, bins, patches=plt.hist(phi[barsample],bins=360,range=[-np.pi,np.pi])
     ff=np.fft.fft(counts-np.mean(counts))
